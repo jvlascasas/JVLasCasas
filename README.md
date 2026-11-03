@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou João Victor</h1>
 
 <p align="center">
-  💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia
+  💻 Software Developer  | 🌍 Apaixonado por Tecnologia
 </p><br><br>
 
 
@@ -19,3 +19,10 @@
 
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 <br><br>
+
+
+
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
+</div>
