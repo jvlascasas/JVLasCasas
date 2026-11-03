@@ -6,7 +6,7 @@
 
 
 ## 🚀 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,c,php,html,json,react)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,c,php,html,react)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,mysql,bootstrap,git,github)](https://skillicons.dev)<br><br>
