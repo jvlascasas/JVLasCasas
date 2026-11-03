@@ -14,7 +14,7 @@
 ## 📫 Contato
 
 [![Gmail Badge](https://img.shields.io/badge/-jvlascasas98@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{jvlascasas98@gmail.com})](mailto:{jvlascasas98@gmail.com})
-[![Linkedin: Badge](https://img.shields.io/badge/-jvlascasas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-victor-las-casas/)](https://www.linkedin.com/in/joão-victor-las-casas/)
+[![Linkedin Badge](https://img.shields.io/badge/-jvlascasas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-victor-las-casas/)](https://www.linkedin.com/in/joão-victor-las-casas/)
 
 
 
